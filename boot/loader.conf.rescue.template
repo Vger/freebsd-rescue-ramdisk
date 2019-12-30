@@ -1,0 +1,5 @@
+geom_uzip_load="YES"
+root_load="YES"
+root_name="/boot/rescue.uzip"
+root_type="md_image"
+vfs.root.mountfrom="ufs:ufs/@DISKLABEL"
